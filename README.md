@@ -49,6 +49,6 @@ http://localhost:3000
   CSSをサニタイズする  
   [使い方](https://csstools.github.io/sanitize.css/)
   
-* **recoil, @types/recoil**
-  状態管理ライブラリ。プロジェクト内でグローバル変数を管理する
+* **recoil, @types/recoil**  
+  状態管理ライブラリ。プロジェクト内でグローバル変数を管理する  
   [React 新しい状態管理ライブラリ Recoil の紹介](https://zenn.dev/ria/articles/2427d0e998c557cdbb96)
