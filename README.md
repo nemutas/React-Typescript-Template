@@ -48,7 +48,11 @@ http://localhost:3000
 * **sanitize.css**  
   CSSをサニタイズする  
   [使い方](https://csstools.github.io/sanitize.css/)
-  
+
+* **react-router-dom, @types/react-router-dom**  
+  ルーターを制御する
+  [使い方](https://reactrouter.com/web/guides/quick-start)
+
 * **recoil, @types/recoil**  
   状態管理ライブラリ。プロジェクト内でグローバル変数を管理する  
   [React 新しい状態管理ライブラリ Recoil の紹介](https://zenn.dev/ria/articles/2427d0e998c557cdbb96)
