@@ -30,6 +30,9 @@ http://localhost:3000
 
 ### パッケージ
 
+開発にほぼ必須となるパッケージの説明です。  
+※ デフォルトパッケージは、説明から除いています。
+
 * **axios**  
   jsonデータ読み込む
 
@@ -37,26 +40,15 @@ http://localhost:3000
   CSSの拡張機能（SASS、SCSS）をモジュールとして扱えるようになる  
   ファイル名は、 hoge.module.scss とする
 
+* **styled-components, @types/styled-components**  
+  CSSの拡張機能で、tsxファイル内にスタイルの記述ができるようになる  
+  VSCodeの拡張機能を使用すると、自動補完もできる  
+  [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=diegolincoln.vscode-styled-components)
 
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "@types/eslint": "^7.2.10",
-    "@types/jest": "^26.0.15",
-    "@types/node": "^12.0.0",
-    "@types/node-sass": "^4.11.1",
-    "@types/react": "^17.0.0",
-    "@types/react-dom": "^17.0.0",
-    "@types/react-router-dom": "^5.1.7",
-    "@types/styled-components": "^5.1.9",
-    "axios": "^0.21.1",
-    "node-sass": "^5.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
-    "recoil": "^0.2.0",
-    "sanitize.css": "^10.0.0",
-    "styled-components": "^5.0.0",
-    "typescript": "^4.1.2",
-    "web-vitals": "^1.0.1"
+* **sanitize.css**  
+  CSSをサニタイズする  
+  [使い方](https://csstools.github.io/sanitize.css/)
+  
+* **recoil, @types/recoil**
+  状態管理ライブラリ。プロジェクト内でグローバル変数を管理する
+  [React 新しい状態管理ライブラリ Recoil の紹介](https://zenn.dev/ria/articles/2427d0e998c557cdbb96)
