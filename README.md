@@ -30,11 +30,11 @@ http://localhost:3000
 
 ### パッケージ
 
-* axios
+* axios  
   jsonデータ読み込む
 
-* node-sass @types/node-sass
-  CSSの拡張機能（SASS、SCSS）をモジュールとして扱えるようになる
+* node-sass @types/node-sass  
+  CSSの拡張機能（SASS、SCSS）をモジュールとして扱えるようになる  
   ファイル名は、 **hoge.module.scss** とする
 
 
