@@ -30,12 +30,12 @@ http://localhost:3000
 
 ### パッケージ
 
-* axios  
+* **axios**  
   jsonデータ読み込む
 
-* node-sass @types/node-sass  
+* **node-sass, @types/node-sass**  
   CSSの拡張機能（SASS、SCSS）をモジュールとして扱えるようになる  
-  ファイル名は、 **hoge.module.scss** とする
+  ファイル名は、 hoge.module.scss とする
 
 
     "@testing-library/jest-dom": "^5.11.4",
