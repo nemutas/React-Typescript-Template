@@ -50,7 +50,7 @@ http://localhost:3000
   [使い方](https://csstools.github.io/sanitize.css/)
 
 * **react-router-dom, @types/react-router-dom**  
-  ルーターを制御する
+  ルーターを制御する  
   [使い方](https://reactrouter.com/web/guides/quick-start)
 
 * **recoil, @types/recoil**  
